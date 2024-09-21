@@ -9,3 +9,5 @@ Guerrero Cabrero Jesus Andres
 ## Aritmetica y Calculo escencial 
 # Programacion I - Jonathan Ulises Miranda Charles 
 ## Uso de terminal y control de versiones 
+
+Creando la version 1.0.0 de este repostorio 
